@@ -1,5 +1,5 @@
-<h1 align="center">سلام، من مهدی هستم 👋</h1>
-<h3 align="center">Full-Stack Web Developer | React & PHP & WordPress Specialist | Clean Code Lover</h3>
+<h1 align="center">Hi there, I'm Mahdi 👋</h1>
+<h3 align="center">Full-Stack Web Developer | React & WordPress Specialist | Clean Code Lover</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Coding+with+passion;Building+clean+and+scalable+apps;Lifelong+learner+%F0%9F%93%9A" alt="Typing SVG" />
@@ -7,15 +7,15 @@
 
 ---
 
-## 👨‍💻 درباره من
+## 👨‍💻 About Me
 
-توسعه‌دهنده‌ی فول‌استک وب با تمرکز روی React، PHP و وردپرس هستم.  
-با علاقه زیاد به توسعه رابط‌های کاربری مدرن، پلاگین‌نویسی وردپرس، و ساخت سیستم‌های قابل مقیاس، هم در فرانت‌اند و هم در بک‌اند تجربه دارم.  
-کدنویسی برای من فقط یک شغل نیست، بلکه یک مسیر بی‌پایان برای خلق، یادگیری و پیشرفت شخصیه.
+I’m a full-stack web developer with deep expertise in **React**, **PHP**, and **WordPress**.  
+I love building modern user interfaces, developing custom plugins and themes, and designing scalable systems.  
+For me, coding isn’t just a profession — it’s a creative journey of learning, building, and growing every day.
 
 ---
 
-## 🚀 مهارت‌ها و تکنولوژی‌ها
+## 🚀 Skills & Technologies
 
 ### 🧩 Front-end  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
@@ -37,7 +37,7 @@
 
 ---
 
-## 📈 آمار فعالیت در گیت‌هاب
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
@@ -46,23 +46,21 @@
 
 ---
 
-## 📫 راه‌های ارتباطی
+## 📬 Contact Me
 
-- 🌐 وب‌سایت: [DevMeta](https://devmeta.ir)  
-- 📧 ایمیل: m.saberi@devmeta.ir  
-- 💼 لینکدین: [mahdi saberi](www.linkedin.com/in/mahdi-saberiiii)
-
-)
+- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)  
+- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 
 ---
 
-## 💡 چند جمله از دل کد
+## 💡 A Few Words I Believe In
 
-> «کد خوب، فقط کار نمی‌کنه... قابل فهم، قابل توسعه، و قابل افتخاره.»  
-> «هر پروژه یک چالش جدیده، و هر چالش فرصتی برای بهتر شدن.»
+> “Good code doesn’t just work — it’s readable, maintainable, and meaningful.”  
+> “Every challenge is an opportunity to grow and craft something better.”
 
 ---
 
 <p align="center">
-  با شور و عشق می‌نویسم، با هدف می‌سازم 💙
+  I build with passion, I code with purpose 💙
 </p>
