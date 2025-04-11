@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 سلام، من [نام شما] هستم!
 
-<!--
-**mahdi6992/mahdi6992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 درباره من
+یک توسعه‌دهنده فول‌استک وب با تمرکز روی **React**, **PHP**, و **WordPress** هستم. در زمینه‌ی توسعه رابط کاربری با React و همچنین ساخت افزونه‌ها و قالب‌های اختصاصی وردپرس تجربه دارم. نوشتن کد تمیز، بهینه‌سازی عملکرد، و خلق تجربه کاربری عالی، اولویت‌های اصلی من در توسعه نرم‌افزار هستند.
 
-Here are some ideas to get you started:
+## 🛠️ مهارت‌ها
+- **Front-end:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind, Next.js
+- **Back-end:** PHP, REST API, WordPress (Plugin & Theme Development)
+- **Tools:** Git, GitHub, VSCode, Figma, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 آمار گیت‌هاب من
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+## 📫 ارتباط با من
+- ایمیل: your.email@example.com
+- وبسایت: [yourwebsite.com](https://yourwebsite.com)
+- لینکدین: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+
+---
+
+> همیشه در حال یادگیری، کدنویسی و خلق چیزهای جدید ✨
