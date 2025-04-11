@@ -56,8 +56,8 @@ Coding isn’t just a job — it’s a way to craft solutions and grow every day
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdi6992&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi6992&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdi6992&show_icons=true&theme=tokyonight&hide_border=true" height="180" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi6992&layout=compact&theme=tokyonight&hide_border=true" height="180"  width="500" />
 </p>
 
 ---
