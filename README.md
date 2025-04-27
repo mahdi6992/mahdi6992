@@ -9,11 +9,14 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate **full-stack web developer** with expertise in **React**, **PHP**, and **WordPress**.  
-I love building scalable apps, creating custom plugins, and designing modern user interfaces.  
-Coding isn’t just a job — it’s a way to craft solutions and grow every day.
+I'm a passionate **full-stack web developer** with expertise in **React**,
+**PHP**, and **WordPress**.  
+I love building scalable apps, creating custom plugins, and designing modern
+user interfaces.  
+Coding isn't just a job — it's a way to craft solutions and grow every day.
 
 ### 🎯 Currently Focused On:
+
 - Mastering advanced React and **TypeScript** for building robust web apps.
 - Developing **high-performance WordPress themes** and plugins.
 - Exploring **microservices architecture** to enhance scalability.
@@ -56,24 +59,24 @@ Coding isn’t just a job — it’s a way to craft solutions and grow every day
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="./github-stats.svg" alt="Mahdi's GitHub Stats" height="180" width="400" />
-  <img src="./github-langs.svg" alt="Top Languages" height="180" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdi6992&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mahdi's GitHub Stats" height="180" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi6992&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" width="400" />
 </p>
 
 ---
 
 ## 📬 Contact Me
 
-- 🌐 Website: [DevMeta](https://devmeta.ir)  
-- 📧 Email: m.saberi@devmeta.ir  
-- 💼 LinkedIn: [Mahdi Saberi](https://www.linkedin.com/in/mahdi-saberiiii)  
+- 🌐 Website: [DevMeta](https://devmeta.ir)
+- 📧 Email: m.saberi@devmeta.ir
+- 💼 LinkedIn: [Mahdi Saberi](https://www.linkedin.com/in/mahdi-saberiiii)
 - 📱 Twitter: [@mahdi_saberiiii](https://twitter.com/mahdi_saberiiii)
 
 ---
 
 ## 💡 A Few Words I Believe In
 
-> "Good code doesn't just work — it’s readable, maintainable, and meaningful."  
+> "Good code doesn't just work — it's readable, maintainable, and meaningful."  
 > "Every challenge is an opportunity to grow and craft something better."
 
 ---
