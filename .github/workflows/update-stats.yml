@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repo
@@ -15,11 +17,11 @@ jobs:
 
       - name: Generate GitHub Stats Image
         run: |
-          curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=mahdi6992&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+          curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=mahdi6992&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&token=${{ secrets.GH_TOKEN }}"
 
       - name: Generate Top Languages Image
         run: |
-          curl -o github-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi6992&layout=compact&theme=tokyonight&hide_border=true"
+          curl -o github-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi6992&layout=compact&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&token=${{ secrets.GH_TOKEN }}"
 
       - name: Commit and Push changes
         run: |
