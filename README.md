@@ -9,11 +9,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **full-stack web developer** with expertise in **React**,
+I’m a passionate **full-stack web developer** with expertise in **React**,
 **PHP**, and **WordPress**.  
 I love building scalable apps, creating custom plugins, and designing modern
 user interfaces.  
-Coding isn't just a job — it's a way to craft solutions and grow every day.
+Coding isn’t just a job — it’s a way to craft solutions and grow every day.
 
 ### 🎯 Currently Focused On:
 
@@ -76,7 +76,7 @@ Coding isn't just a job — it's a way to craft solutions and grow every day.
 
 ## 💡 A Few Words I Believe In
 
-> "Good code doesn't just work — it's readable, maintainable, and meaningful."  
+> "Good code doesn't just work — it’s readable, maintainable, and meaningful."  
 > "Every challenge is an opportunity to grow and craft something better."
 
 ---
