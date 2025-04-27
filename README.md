@@ -39,7 +39,7 @@ Coding isn’t just a job — it’s a way to craft solutions and grow every day
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
     <img src="https://img.shields.io/badge/-REST_API-6DB33F?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-WordPress_Plugging_Development-8B4F96?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-WordPress_Plugin_Development-8B4F96?style=for-the-badge" />
   </div>
 
   <!-- Tools -->
@@ -56,8 +56,8 @@ Coding isn’t just a job — it’s a way to craft solutions and grow every day
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdi6992&show_icons=true&theme=tokyonight&hide_border=true" height="180" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi6992&layout=compact&theme=tokyonight&hide_border=true" height="180"  width="400" />
+  <img src="./github-stats.svg" alt="Mahdi's GitHub Stats" height="180" width="400" />
+  <img src="./github-langs.svg" alt="Top Languages" height="180" width="400" />
 </p>
 
 ---
